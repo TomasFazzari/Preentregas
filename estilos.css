@@ -290,8 +290,22 @@
     padding: 30px;
   }
 
-
+/*pagina contacto*/
   .comunicate{
     text-align: center;
     margin: 20px;
+  }
+
+  .contacto{
+    margin: 30px;
+  }
+
+  .redes{
+    font-size: 40px;
+    padding: 30px;
+    
+  }
+
+  div a{
+    margin: 25px;
   }
